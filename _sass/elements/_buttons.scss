@@ -111,21 +111,7 @@
 ---------------------------*/
 
 
-/*   X-Large Button   */
 
-.btn-xl {
-  height: 72px;
-  padding: 0 60px;
-  border-radius: 100px;
-  font-size: 1.5rem;
-
-  @media #{$bp-below-tablet} {
-    height: 60px;
-    padding: 0 50px;
-    border-radius: 80px;
-    font-size: 1.25rem;
-  }
-}
 
 /* extra long button */
 .btn-xl-long {
